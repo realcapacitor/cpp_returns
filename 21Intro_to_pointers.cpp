@@ -5,7 +5,7 @@ int main(){
 	//Pointer variables are used to store the memory location of any other variable.
 	//The address of any variable can be seen by using & symbol before variable name.
 	//This gives us the hexadecimal memory address of that variable.
-	//The pointer is a varable, with the address of of another variavle as its value.
+	//The pointer is a variable, with the address of of another variable as its value.
 	//In c++, tasks like dynamic memory allocation can not performed without using pointers
 	int x = 10;
 	int * ptr = &x;
